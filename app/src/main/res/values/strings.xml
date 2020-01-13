@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Restaurants Around</string>
+   
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyBOP8-qXHqN4bbDoWYdpaqqL5yEw8PdCoA
+    </string>
+
+    <string name="foursquare_client_id" templateMergeStrategy="preserve" translatable="false">
+        TX202TI2ML02FI0PUUL22CPZI5VC5CZXVCZU3PIQNJU0GBAV
+    </string>
+    <string name="foursquare_client_secret" templateMergeStrategy="preserve" translatable="false">
+        H1JNIWJRAE0J3MQIA2LH0VPJLXFDVQGMUD55NH3RH5TN2EXB
+    </string>
+</resources>
